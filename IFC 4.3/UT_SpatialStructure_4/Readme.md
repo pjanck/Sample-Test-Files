@@ -135,9 +135,6 @@ To represent the project breakdown for this unit test, we envision the following
           - RelatingElement=#A.a.2.1
           - RelatedElement=#A.a.4.4
 
-_* the PredefinedType enumeration is selected through "IfcFacilityPartTypeSelect"_.
-
-
 ---
 
 #### Expected Results
